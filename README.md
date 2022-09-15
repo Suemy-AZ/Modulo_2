@@ -1,3 +1,3 @@
 # Modulo_2
-Implementación sin librerías:
-Implementación con librerías:
+Implementación sin librerías: M2_SL.ipny
+
